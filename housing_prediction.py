@@ -19,7 +19,7 @@ furnishing_mapping = {
 
 st.title('House Price Prediction')
 st.markdown("""
-Selamat datang di aplikasi prediksi harga rumah. Masukkan informasi rumah Anda di bawah ini untuk memprediksi harga rumah berdasarkan model regresi linier.
+Selamat datang di aplikasi prediksi harga rumah. Masukkan informasi rumah yang anda inginkan untuk di prediksi harga rumah tersebut berdasarkan model regresi linier.
 
 **Fitur:**
 - Luas Rumah
